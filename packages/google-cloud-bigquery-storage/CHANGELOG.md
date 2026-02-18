@@ -4,13 +4,6 @@
 
 [1]: https://pypi.org/project/google-cloud-bigquery-storage/#history
 
-## [2.37.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-bigquery-storage-v2.36.1...google-cloud-bigquery-storage-v2.37.0) (2026-02-17)
-
-
-### Features
-
-* support conversion of BigQuery schema to Protobuf ([2711330](https://github.com/googleapis/google-cloud-python/commit/2711330f0a096a2a9d1b02e51081d1af25a37501))
-
 ## [2.36.1](https://github.com/googleapis/google-cloud-python/compare/google-cloud-bigquery-storage-v2.36.0...google-cloud-bigquery-storage-v2.36.1) (2026-02-12)
 
 
